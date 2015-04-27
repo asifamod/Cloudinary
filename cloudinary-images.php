@@ -158,9 +158,9 @@ function getcloudinaryImageDataOnSelections()
 class Cloudinary {
 
     private static $config = array(
-        "cloud_name" => "dn0mmph1c",
-        "api_key" => "613912617727488",
-        "api_secret" => "0pu_lKbKMi_woNgUglJ7l2f_Wv4"
+        "cloud_name" => "enter details here",
+        "api_key" => "enter details here",
+        "api_secret" => "enter details here"
     );
 
     const SHARED_CDN = "d3jpl91pxevbkh.cloudfront.net";
